@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabrinapalm
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning E2E-testing with Testcafé
+- 🌱 I’m currently learning Testcafé
 - 📫 How to reach me @ sabrinawolfpaln.gmail.com
 
 <!---
