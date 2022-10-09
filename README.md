@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sabrinapalm
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in Frontend Development, react.js, CSS-in-JS, Testcafé
 - 🌱 I’m currently learning Testcafé
 
 <!---
