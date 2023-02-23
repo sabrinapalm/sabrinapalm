@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sabrinapalm
-- 💻 Currently working @EtraveliGroup
+- 💻 Currently working @Knowit Experience
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Testcafé
