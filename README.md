@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sabrinapalm
-- 💻 Currently working @Knowit Experience
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning TypeScript & Tailwind CSS
+- 💻 Frontend Developer @Knowit Experience
+- 👩🏻‍💻 I’m interested in all things frontend related
+- 🌱 Currently learning TypeScript & Tailwind CSS
